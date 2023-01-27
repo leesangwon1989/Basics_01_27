@@ -6,4 +6,4 @@ public class Main1 {
     }
 }
 
-//Co-authored-by
+//Co-authored-by : 핸들명 <github 이메일 주소>
