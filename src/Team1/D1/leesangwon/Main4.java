@@ -1,9 +1,13 @@
-package Team1;
-
-import test.Test4;
+package Team1.D1.leesangwon;
 
 public class Main4 {
-    public String test(int a, int b) {
+    public static void main(String[] args) {
+
+    }
+}
+
+class Solution4 {
+    public String solution(int a, int b) {
         long answer = 0;
         if(a<=b){
             for(int i=a; i<=b; i++) {

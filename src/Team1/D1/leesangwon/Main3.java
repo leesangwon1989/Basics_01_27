@@ -1,5 +1,11 @@
-package Team1;
+package Team1.D1.leesangwon;
 public class Main3 {
+    public static void main(String[] args) {
+    }
+}
+
+
+    class Solution3 {
     public String test(String s) {
         String answer = "";
         if(s.length()%2==0) {
