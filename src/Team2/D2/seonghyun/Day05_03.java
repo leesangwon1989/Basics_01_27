@@ -14,7 +14,6 @@ public class Day05_03 {
         return answer;
     }
 }
-
 //풀고나서 참고
 //class Solution {
 //    public long solution(long price, long money, long count) {
