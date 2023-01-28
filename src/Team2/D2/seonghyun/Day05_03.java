@@ -12,7 +12,6 @@ public class Day05_03 {
         }
         answer = (money<sum)?(-sum + money)*-1: 0;
         return answer;
-
     }
 }
 //풀고나서 참고

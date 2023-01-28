@@ -8,7 +8,6 @@ public class Day05_02 {
             sum +=x;
             answer[i] = sum;
         }
-
         return answer;
     }
 }
